@@ -1,0 +1,4 @@
+
+#ignore Eagle generaged backup files
+*.b#*
+*.s#*
